@@ -1,4 +1,4 @@
-# AI-TA-Group-05
+# A Star Visualisation
 ## Visualization of A* Algorithm on Romania Map
 This code implements the A* search algorithm to find the shortest path between two cities in the Romania map. The algorithm takes into account both the actual cost of reaching a city and an estimated heuristic value from the current city to the destination city. 
 
