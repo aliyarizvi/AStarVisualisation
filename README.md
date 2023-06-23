@@ -61,7 +61,6 @@ You can install these dependencies using pip: pip install tkinter, networkx, mat
 
 ## Credits
 
-- Team Members
 - [A* Search Algorithm - Wikipedia](https://en.wikipedia.org/wiki/A*_search_algorithm)
 - [NetworkX Documentation](https://networkx.org/documentation/stable/)
-- [Tkinter Documenatation](https://docs.python.org/3/libr
+- [Tkinter Documenatation](https://docs.python.org/3/library/tk.html)
